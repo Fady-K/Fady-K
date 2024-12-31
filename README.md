@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fady-k&label=Profile%20views&color=0e75b6&style=flat" alt="fady-k" /> </p>
 
-- 🌱 I’m currently learning **Mobile Development Using java**
+- 🌱 I’m currently working as a **.NET Software Develper**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fady-K?tab=repositories](https://github.com/Fady-K?tab=repositories)
 
